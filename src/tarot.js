@@ -265,6 +265,366 @@ If you have not quite reached this point of completion, then you are very close!
 If loose ends still remain, The World card asks you to bring them to completion. In doing so, you will clear the space for new beginnings and opportunities to emerge.
 \n
 More literally, The World can mean world travel, particularly on a large scale. You may be lucky enough to embark on a six-month overseas trip, or are working, studying or living overseas for an extended period. This card reinforces Universal understanding and global awareness, and you will find a new appreciation for people and cultures from across the world.`
+  },
+  {
+    name: 'Ace of Wands',
+    keywords: 'Inspiration, new opportunities, growth, potential',
+    meaning: `As an Ace, this Wands card brings you pure potential – this time in the spiritual, energetic realm. Ideas are flowing to you, motivating and inspiring you to pursue a new path. You are open to receiving new opportunities that align with your Higher Self. A whole world of possibility is available to you.
+\n
+The Ace of Wands encourages you to follow your heart and live your passion. If you feel a strong pull towards a new project or path, but are questioning whether it will work, then this card gives you a gentle nudge to pursue your passion. You can always start out small, treating the project or idea as an experiment or trial. Then, if it feels good, keep doing it; and if it doesn’t, make adjustments and try again. Let your energy, dedication and motivation be your guides.
+\n
+If you have been looking for a sign about whether this is the right project, then the Ace of Wands is a clear YES! The sprouting wand and the fertile landscape in the background are all positive indications that this idea has the potential to turn into something fulfilling and energising. Use your creative energy and passion to take the first steps. Even if you prefer to plan out everything before you begin down a particular path, the Ace of Wands wants you to listen to your instincts and follow your gut. If it seems like a good idea, it probably is. So, start with a few fundamentals to get things rolling, and then continue to grow and develop your ideas through more complex activities later on. The important thing is that you act now rather than spending more time planning or researching.
+\n
+Keep in mind, however, that the Aces represent potential but not guaranteed results. The Ace of Wands (or any Ace) is a seed that has yet to grow into something more substantial or sustainable. The opportunity on offer shows great promise, but it will be up to you to maximise it for the long term. See this card as the spark needed to fuel a massive fire, but remember that the flash itself is not enough to keep the flames burning.
+\n
+The Ace of Wands may appear when you have an opportunity to grow on a personal or spiritual level. You may be interested in taking a class or investing in a course so you can follow your creative spirit. For example, you might enrol in a photography class, a Tarot course, or a self-improvement program. Trust that this experience will open you up to even more possibilities.
+Ace of Wands Reversed`
+  },
+  {
+    name: '2 of Wands',
+    keywords: 'Future planning, progress, decisions, discovery',
+    meaning: `The Two of Wands takes the spark of inspiration from the Ace of Wands and turns it into a clear action plan. You went through the discovery phase and know what you want to manifest – now you need to figure out how. You are exploring your options and carefully plotting out the path ahead, accounting for all possibilities and potential challenges. You are open to growth and exploring new territories, so long as you maintain a level of certainty that your efforts will work out in the end.
+\n
+When the Two of Wands appears in a Tarot reading, you are not ready to make your move – it is more important that you establish a clear plan before proceeding. The Two of Wands is also about discovery, particularly as you step outside your comfort zone and explore new worlds and experiences. It may take courage to set out, but this card gives you the confidence of self-knowledge. You know what your goal is and are sure of its eventual fulfilment. Let your intuition and passion guide you as you confirm your next steps.
+\n
+The Two of Wands indicates that you are considering your longer-term goals and aspirations and are ready to plan for what you need to do to achieve them. You have already come so far, and now you feel ready for a change – this time with your long-term future in mind. You may be contemplating overseas travel, further education or a significant career switch to expand your horizons beyond your immediate environment. With careful planning and a moderated approach, you will set yourself up for success.
+\n
+The Twos in Tarot often represent decisions of some sort. With this two, you may make a choice between sticking with what you know or taking a risk. You understand the world has something bigger or more meaningful to offer you, yet you also realise that you must leave your familiar grounds to capitalise on this opportunity. Even though you already invested a lot into your current circumstances, it is imperative that you step out and explore your options.`
+  },
+  {
+    name: '3 of Wands',
+    keywords: 'Progress, expansion, foresight, overseas opportunities',
+    meaning: `While the Two of Wands speaks to planning for the future from a place of safety and comfort, the Three of Wands shows that your plans are now well underway and you are considering even more opportunities to expand your current strategy and maximise your ultimate potential. Everything is progressing steadily and as expected, thanks to your solid preparation and ongoing drive.
+\n
+The Three of Wands signals the many chances available to you to broaden your horizons through study, travel, business enterprise and learning. You are becoming more aware of the opportunities that exist for you right now – and there are still more to come. To take advantage of this potential, you must stay committed to your path and be prepared to stretch beyond your comfort zone, knowing your best hopes lie outside of your current environment. It is time to think BIG. Consider what you can to open doors to more development and self-exploration. This card encourages you to dream bigger than your limitations. Accept your vision and be confident you will achieve it.
+\n
+The Three of Wands also brings your attention to the changes and challenges that lie ahead. Given the man in this card can see far into the distance, then you are likely to be already aware of the upcoming developments and obstacles and can prepare for them ahead of time.
+\n
+Given the image of land and sea, the Three of Wands can sometimes point to travel, especially overseas or over a body of water. It encourages you to be adventurous and venture to unknown places to discover more about yourself and learn many new things along the way. You may also explore international job opportunities.`
+  },
+  {
+    name: '4 of Wands',
+    keywords: 'Celebration, joy, harmony, relaxation, homecoming',
+    meaning: `The Four of Wands is a card of joyful celebration, blissful happiness and appreciation for the good things in life. When this card appears in a Tarot reading, it is the perfect time to celebrate with those you love most. You may commemorate a significant event or milestone such as a wedding, birthday, homecoming or reunion. Or, you may invite a few of your favourite friends over for an intimate dinner for no particular reason except to revel in each other’s company. Relax and let your hair down – enjoy this special time together!
+\n
+The Four of Wands can show that you are returning home or to the people and places familiar to you. You feel supported and secure, knowing you are with those who love you and care about you.
+\n
+Because the Four of Wands associates so closely with the home environment, you may work on improving or renovating your house or are close to finding a new one. Perhaps you recently purchased a home and are getting ready to settle down in your new habitat.
+\n
+The Four of Wands tells you that after a period of rapid growth and expansion (the energy of the Three of Wands), it’s now time to pause and celebrate what you have achieved so far. Step back for a moment and enjoy the fruits of your labour. Acknowledge your hard work and give yourself permission to take a small break before embarking on the next phase of your journey. It’s essential you observe these smaller milestones.
+\n
+In numerology, four symbolises stability and firm foundations, and with the Four of Wands, you are now enjoying a period of happiness and security. This card indicates a sense of harmony and balance as well as completion and thus denotes a time of peace and contentment in life that comes as the result of hard-fought efforts.
+\n
+If you have been working on a project, you will reach an important milestone and have reason to celebrate. If you just wrapped up your project, the Four of Wands represents the personal gratification of a job well done, a goal attained, and a vision beginning to be realised. You should be proud!`
+  },
+  {
+    name: '5 of Wands',
+    keywords: 'Conflict, disagreements, competition, tension, diversity',
+    meaning: `In the Tarot, the Fives typically represent conflict and change, and the Five of Wands is no exception. This card indicates that you are in the midst of battle, tension, and competition with others and it is impacting your ability to move forward with your goals. Rather than being able to work towards a common goal, you are running up against constant opposition.
+\n
+With the Five of Wands, everyone is fighting to be heard. But guess what? No one is listening. When everybody has a different opinion, but no-one is stopping to hear each other out, conflict and misunderstandings will run rampant. If you find yourself in this situation, see it as an opportunity to rise above the chaos and disorder. Take a moment to listen to what others have to say – even if you agree to disagree. The key is to tune in to one another and allow each person to make their case. And perhaps, in the process, their opinions may become softer and quieter. They may also give you the respect you’re seeking and listen to your viewpoint.
+\n
+Sometimes, this type of conflict and discussion can be very productive, such as with group brainstorming and problem-solving. You need a constructive environment where you can test your ideas and have them challenged (and improved) by others. You may benefit from establishing a working group, committee or mastermind group with other individuals who bring varying perspectives and experiences. Be open to this debate as a positive contribution to improving the quality of your ideas and actions.
+\n
+The Five of Wands also encourages diversity and differences of opinion. You may deal with people from different cultures and backgrounds and struggle to accept their way of living. Know that each person has something unique to bring to the table and that you will benefit by learning more about them and what they have to offer.
+\n
+The Five of Wands encourages an enthusiastic approach to change. Transition (or even transformation) is coming whether or not you like it; your challenge will be in ensuring that everyone is on the same page and dealing with this shift constructively and positively. Currently, your group’s energy is scattered by misdirected enthusiasm. Everybody has ideas, but no one is there to bring them into a logical path forward. Your role may be in identifying a clear strategy and purpose that can be implemented by all involved..`
+  },
+  {
+    name: '6 of Wands',
+    keywords: 'Success, public recognition, progress, self-confidence',
+    meaning: `The Six of Wands appears when you have reached an important milestone or achieved a significant goal, and you are confident, self-assured, and successful. You harnessed your strengths and talents to bring about a happy outcome in your endeavours and made it through the chaos of the Five of Wands, minimising your distractions and focusing on the task at hand. Yes, there were challenges along the way, but you overcame them by concentrating your energies on the one target.
+\n
+The Six of Wands suggests that not only have you achieved your goals, but you are also receiving public acknowledgement for your efforts. You may have recently received an award, acclaim or recognition from your peers for your work. It may even be just a pat on the back, but this attention is a big boost to your confidence and gives you the strength to continue your endeavours.
+\n
+The Six of Wands also encourages you to put yourself out there and be proud of what you achieved. Shout your successes from the rooftop and set it all out there for others to see and cheer you on. Be open to receiving love and support from your biggest cheerleaders, who are energised by seeing you succeed. Now is your time to shine!
+\n
+The Six of Wands is a positive encouragement to believe in who you are and your accomplishments so far. Have faith in what you’ve done and how others will receive it. Do not let fear or guilt stand in the way of your success. You ought to be proud! Hold your head up high and know you‘re worthy of admiration.
+\n
+While the Six of Wands marks an important milestone, keep in mind that you’re not quite at the finish line just yet. You still have some way to go, and challenges may sit on the path ahead – but take heart knowing you have the support of those around you and they are here to back you 100%`
+  },
+  {
+    name: '7 of Wands',
+    keywords: 'Challenge, competition, protection, perseverance',
+    meaning: `After the success of the Six of Wands, you are now in an enviable position and are being challenged by others who want to take your place. You worked hard to get to where you are, but some people covet what you have and are prepared to fight you for it. While it is flattering that they strive for your success, it also makes for a tense and competitive environment because you need to protect what you earned and must continually prove yourself.
+\n
+It is a sad fact of life, but the more visibility you have as a leader in your field and the bigger your audience, the more likely it is that you will need to grapple with this kind of pressure. Others see your success and will either challenge your point of view or want to take you down; in Australia, we call it the ‘tall poppy syndrome’. When the Seven of Wands appears in a Tarot reading, expect to see an increase in ‘haters’, trolls and people who disagree with you. You will need to secure your territory and fight for what you stand for. You may also want to engage a lawyer or a loyal support team who can defend you from any possible threat.
+The Seven of Wands may appear when you hold a contentious point of view or wish to voice your opinion in a public forum. Be ready to support your argument and back yourself. Stand firm in your conviction of what you believe (and why) so that others do not topple you from your mountain of self-belief.
+\n
+Sometimes, this threat or opposition may catch you by surprise, and you feel inadequately prepared for such a battle. Just like the man in the card has rushed to put his shoes on and ended up with a mismatched pair, you must scramble to fight even though you don’t have everything in place. To be better prepared next time, the Seven of Wands encourages you to map out any potential threats or risks before moving ahead with your plans. That way, you can have a ‘worst-case scenario’ plan ready to go.
+\n
+The Seven of Wands can also mean a challenge to the success of a creative project from an external source. Someone or something may get in the way of you being able to pursue your goals and dreams. While it appears to block your path forward, you can overcome this obstacle by drawing upon your strong self-confidence, self-belief, and continual self-improvement. Establish clear boundaries and then protect them so that others do not mess with you. Hold your ground, take a stand, and defend your position at all costs. This will require courage and persistence, but you have the strength and determination to do it. Keep fighting for what you believe in and confront those who may oppose or threaten you.`
+  },
+  {
+    name: '8 of Wands',
+    keywords: 'Movement, fast paced change, action, alignment, air travel',
+    meaning: `The Eight of Wands says the struggles of the Seven of Wands have now all but cleared and you have the freedom and space to move forward with your plans once again. This Eight is a dynamic card, containing a high level of energy that propels you forward to reach your goals at a much faster pace than ever before. You can expect to be very busy, but this is one of those ‘good busy’ periods during which you are enthusiastic about the progress you are making.
+\n
+The Eight of Wands encourages you to go with the flow; don’t resist it. Everything is moving fast right now, so make the most of this forward momentum to manifest your goals and dreams. Allow the energy of the Universe to flow through you and propel you closer to your goal. Trying to slow things down because you’re not ready or you’re fearful about the unknown will just waste this opportunity. Use the energy instead to fuel positive change and produce significant results.
+\n
+The Eight of Wands also invites you to be laser-focused with your intentions and actions. Determine what you want to manifest and then align all of your resources and energy to focus on that singular goal. Remove all distractions and devote yourself to the task with total concentration, determination and will. This experience can be highly productive, allowing you to accomplish a lot in a short time.
+\n
+With the Eight of Wands, you can look forward to the rapid completion of a project currently underway, but you can also expect to be occupied by something new and even more exciting soon. There is no stopping you right now as you are just bursting with energy and ideas, and you cannot wait to achieve one task and start another. To maximise this energy, make sure your activities align with your broader goals and invest in the right things at the right time. Also, make sure your previous task is complete before you move to the next one.
+\n
+This card is a sign to ‘strike while the iron is hot.’ It is most definitely an action-oriented card that encourages you to move quickly to pursue the best opportunities available. There is no waiting around while the Eight of Wands is present, so determine where your energy should go and get on with it!
+\n
+Often, the Eight of Wands suggests air travel, a short-term or whirlwind trip, such as a business trip or holiday. You may even enjoy being part of a tour group that visits ten countries in as many days!`
+  },
+  {
+    name: '9 of Wands',
+    keywords: 'Resilience, courage, persistence, test of faith, boundaries',
+    meaning: `The Nine of Wands comes as a sign that even in the face of adversity, you stand tall and strong. You may be on the edge of exhaustion, but you are resilient, persistent, and ready to do what it takes to get to the finish line.
+\n
+This card may also come when you feel battered and bruised, having endured significant challenges and struggles along your path. Just when you think you are making progress, you suffer another setback. The Nine of Wands asks you to trust that this is merely a test of your ‘grit’ and resilience, and know that every time you overcome an obstacle, you are getting stronger. You have the inner resources necessary to overcome any difficulty you encounter, even though it may seem impossible at the time. See this Nine as an assurance that you will eventually prosper if you maintain your position. And, if you do not succeed at first, then try again.
+\n
+The Nine of Wands encourages you to keep pushing – you are so close to the finish line. Even if you want to give up, this is your final challenge before you reach your goal, so don’t let go of your hopes and dreams when you are so close to making them a reality. Stand firm in the face of your challenges, and you will achieve your goal.
+\n
+Others may try to oppose your plans, make things difficult for you, or even attack you for what you are putting out into the world. Often, they do it because they’re jealous of your success or are projecting their own insecurities and fears on you. Don’t let them get to you. You are a change-maker, and you have a vital message to share in this world. Don’t dim your light because of others’ insecurities.
+\n
+On a more positive note, you have people who support you. The Nine of Wands invites you to find your cheerleaders and personal bodyguards, those who will protect you from the ongoing challenges and cheer you on to the finish line. Even if others oppose you, you have many more people who support your cause. Let them help you.
+\n
+Finally, the advice of the Nine of Wands is to establish your boundaries and fiercely protect those lines. If you allowed others to stand in your way or deplete your energy, it is likely that you have not asserted yourself effectively with those people to protect yourself. Get clear on what you need in this situation to be successful and reach your goals, and then communicate those needs to others. On the same note, be aware that too many barriers will prevent others from getting close to you or helping you. Bring your conscious awareness to how you are proactively using boundaries to protect your energy.`
+  },
+  {
+    name: '10 of Wands',
+    keywords: 'Burden, extra responsibility, hard work, completion',
+    meaning: `The Ten of Wands notes that you are taking on an extra burden, a heavier workload, or greater responsibility. Even though it is weighing you down and making things tougher for you, you understand it is only temporary, so you are willing to put in the hard work now to accomplish your goal and reap the rewards later. For example, you may work extra hours to save up for a family holiday. Or you may help out a friend with moving house, knowing they will return the favour when you move later in the year. Or you may care for a sick family member, adding to your responsibilities at home but knowing your loved one deeply appreciates it.
+\n
+Sometimes, the Ten of Wands appears when you are unconsciously taking on extra responsibility and finding yourself feeling weighed down, exhausted and burnt out. You may try to do everything at once, even though you know it is adding extra pressure to your daily life. The Ten of Wands asks you to stop and examine your current lifestyle or work. Assess which activities or tasks are urgent or important, particularly concerning your broader goals. You may need to use various time management or prioritisation methods to determine where best to spend your time and which tasks you can drop. Your goal needs to be higher efficiency while also freeing yourself up for rest and relaxation when you need it.
+\n
+The good news is that the Tens in Tarot represent the completion of a cycle, and with the Ten of Wands, the end is in sight! You have been pushing yourself to your limits and working very hard towards your goal. Now, you are taking those final steps on the path to realising your dreams. Sure, you might collapse in a heap of exhaustion when you get there, but you know it will be all worth it and well earned!
+\n
+The Ten of Wands can also show that even with the achievement of your goal, some significant responsibilities and commitments come with it. When you reach a point of completion, you become starkly aware that you must now carry on with the duties you have laid out for yourself, to ensure ongoing success. The trouble is, however, that these responsibilities may become too much to bear and you are struggling to let go. It is like the business owner who creates a flourishing business but is unprepared to delegate some of his or her responsibilities to the staff and ends up working seventy to eighty hours a week. The inspiration and creativity that came with the initial goal or vision disappear and everything becomes hard work all too quickly. Thus, it is essential to let go of or delegate some of your responsibilities to free you up to still enjoy life.`
+  },
+  {
+    name: 'Page of Wands',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: 'Knight of Wands',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: 'King of Wands',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: 'Queen of Wands',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Cups',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Pentacles',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
+  },
+  {
+    name: ' of Swords',
+    keywords: '',
+    meaning: ``
   }
 ];
 export default tarotCards;
