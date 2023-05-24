@@ -12,10 +12,34 @@ h1 {
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+  color: #222
+}
+
+button {
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #999;
+  border: none;
+}
+
+button:hover {
+  background-color: slategray;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
 .autocomplete {
   display: flex;
   align-items: center;
-  justify-content: center;
+  flex-direction: column;
+  min-height: 200px;
 }
 
 .no-suggestions {
@@ -40,8 +64,8 @@ h1 {
 
 .suggestion-active,
 .suggestions li:hover {
-  background-color: #008f68;
-  color: #fae042;
+  background-color: slategray;
+  color: black;
   cursor: pointer;
   font-weight: 700;
 }
